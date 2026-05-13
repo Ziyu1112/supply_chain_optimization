@@ -1,0 +1,9 @@
+region,demand,latitude,longitude,priority,unmet_penalty
+Utrecht,350,52.0907,5.1214,High,150
+The Hague,300,52.0705,4.3007,High,150
+Groningen,250,53.2194,6.5665,Medium,100
+Maastricht,220,50.8514,5.6909,Medium,100
+Tilburg,280,51.5555,5.0913,High,150
+Arnhem,260,51.9851,5.8987,Medium,100
+Zwolle,200,52.5168,6.0830,Low,75
+Breda,240,51.5719,4.7683,Medium,100

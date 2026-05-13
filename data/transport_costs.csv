@@ -1,0 +1,25 @@
+from_warehouse,to_region,distance_km,cost_per_unit
+Amsterdam DC,Utrecht,45,5.10
+Amsterdam DC,The Hague,65,6.20
+Amsterdam DC,Groningen,180,12.80
+Amsterdam DC,Maastricht,215,14.50
+Amsterdam DC,Tilburg,115,8.40
+Amsterdam DC,Arnhem,100,7.60
+Amsterdam DC,Zwolle,105,7.90
+Amsterdam DC,Breda,110,8.10
+Rotterdam DC,Utrecht,60,6.40
+Rotterdam DC,The Hague,25,3.80
+Rotterdam DC,Groningen,230,15.50
+Rotterdam DC,Maastricht,200,13.70
+Rotterdam DC,Tilburg,85,6.80
+Rotterdam DC,Arnhem,115,8.50
+Rotterdam DC,Zwolle,145,10.20
+Rotterdam DC,Breda,50,5.20
+Eindhoven DC,Utrecht,90,7.20
+Eindhoven DC,The Hague,135,9.40
+Eindhoven DC,Groningen,245,16.20
+Eindhoven DC,Maastricht,85,6.10
+Eindhoven DC,Tilburg,35,3.90
+Eindhoven DC,Arnhem,80,6.30
+Eindhoven DC,Zwolle,130,9.30
+Eindhoven DC,Breda,60,5.40

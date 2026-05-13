@@ -1,0 +1,6 @@
+scenario,description,status,total_cost,transportation_cost,unmet_penalty_cost,total_unmet_demand,cost_change_vs_base,cost_change_pct_vs_base
+Base Case,Normal demand and current network,Optimal,13025.0,13025.0,0.0,0.0,0.0,0.0
+Amsterdam Closure,Amsterdam DC is temporarily unavailable,Optimal with Shortage,36033.0,11033.0,25000.0,300.0,23008.0,1.7664491362763917
+Fuel Cost Increase,Transport costs increase by 20 percent,Optimal,15630.0,15630.0,0.0,0.0,2605.0,0.2
+Randstad Demand Surge,Utrecht and The Hague demand increase by 30 percent,Optimal,13902.5,13902.5,0.0,0.0,877.5,0.06737044145873321
+Eindhoven Capacity Loss,Eindhoven DC capacity drops by 40 percent,Optimal,13421.0,13421.0,0.0,0.0,396.0,0.030403071017274474

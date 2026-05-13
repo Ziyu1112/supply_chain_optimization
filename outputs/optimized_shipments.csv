@@ -1,0 +1,42 @@
+scenario,from_warehouse,to_region,quantity,cost_per_unit,total_cost
+Base Case,Amsterdam DC,Utrecht,350.0,5.1,1785.0
+Base Case,Amsterdam DC,Groningen,250.0,12.8,3200.0
+Base Case,Amsterdam DC,Zwolle,200.0,7.9,1580.0
+Base Case,Rotterdam DC,The Hague,300.0,3.8,1140.0
+Base Case,Rotterdam DC,Breda,240.0,5.2,1248.0
+Base Case,Eindhoven DC,Maastricht,220.0,6.1,1342.0
+Base Case,Eindhoven DC,Tilburg,280.0,3.9,1092.0
+Base Case,Eindhoven DC,Arnhem,260.0,6.3,1638.0
+Amsterdam Closure,Rotterdam DC,Utrecht,350.0,6.4,2240.0
+Amsterdam Closure,Rotterdam DC,The Hague,300.0,3.8,1140.0
+Amsterdam Closure,Rotterdam DC,Groningen,150.0,15.5,2325.0
+Amsterdam Closure,Rotterdam DC,Breda,200.0,5.2,1040.0
+Amsterdam Closure,Eindhoven DC,Maastricht,220.0,6.1,1342.0
+Amsterdam Closure,Eindhoven DC,Tilburg,280.0,3.9,1092.0
+Amsterdam Closure,Eindhoven DC,Arnhem,260.0,6.3,1638.0
+Amsterdam Closure,Eindhoven DC,Breda,40.0,5.4,216.0
+Fuel Cost Increase,Amsterdam DC,Utrecht,350.0,6.119999999999999,2142.0
+Fuel Cost Increase,Amsterdam DC,Groningen,250.0,15.36,3840.0
+Fuel Cost Increase,Amsterdam DC,Zwolle,200.0,9.48,1896.0
+Fuel Cost Increase,Rotterdam DC,The Hague,300.0,4.56,1368.0
+Fuel Cost Increase,Rotterdam DC,Breda,240.0,6.24,1497.6
+Fuel Cost Increase,Eindhoven DC,Maastricht,220.0,7.319999999999999,1610.4
+Fuel Cost Increase,Eindhoven DC,Tilburg,280.0,4.68,1310.4
+Fuel Cost Increase,Eindhoven DC,Arnhem,260.0,7.56,1965.6
+Randstad Demand Surge,Amsterdam DC,Utrecht,455.0,5.1,2320.5
+Randstad Demand Surge,Amsterdam DC,Groningen,250.0,12.8,3200.0
+Randstad Demand Surge,Amsterdam DC,Zwolle,200.0,7.9,1580.0
+Randstad Demand Surge,Rotterdam DC,The Hague,390.0,3.8,1482.0
+Randstad Demand Surge,Rotterdam DC,Breda,240.0,5.2,1248.0
+Randstad Demand Surge,Eindhoven DC,Maastricht,220.0,6.1,1342.0
+Randstad Demand Surge,Eindhoven DC,Tilburg,280.0,3.9,1092.0
+Randstad Demand Surge,Eindhoven DC,Arnhem,260.0,6.3,1638.0
+Eindhoven Capacity Loss,Amsterdam DC,Utrecht,350.0,5.1,1785.0
+Eindhoven Capacity Loss,Amsterdam DC,Groningen,250.0,12.8,3200.0
+Eindhoven Capacity Loss,Amsterdam DC,Arnhem,260.0,7.6,1976.0
+Eindhoven Capacity Loss,Amsterdam DC,Zwolle,200.0,7.9,1580.0
+Eindhoven Capacity Loss,Rotterdam DC,The Hague,300.0,3.8,1140.0
+Eindhoven Capacity Loss,Rotterdam DC,Tilburg,20.0,6.8,136.0
+Eindhoven Capacity Loss,Rotterdam DC,Breda,240.0,5.2,1248.0
+Eindhoven Capacity Loss,Eindhoven DC,Maastricht,220.0,6.1,1342.0
+Eindhoven Capacity Loss,Eindhoven DC,Tilburg,260.0,3.9,1014.0

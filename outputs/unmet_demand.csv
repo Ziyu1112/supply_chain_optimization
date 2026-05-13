@@ -1,0 +1,41 @@
+scenario,region,unmet_quantity,penalty_per_unit,penalty_cost
+Base Case,Utrecht,0.0,150,0.0
+Base Case,The Hague,0.0,150,0.0
+Base Case,Groningen,0.0,100,0.0
+Base Case,Maastricht,0.0,100,0.0
+Base Case,Tilburg,0.0,150,0.0
+Base Case,Arnhem,0.0,100,0.0
+Base Case,Zwolle,0.0,75,0.0
+Base Case,Breda,0.0,100,0.0
+Amsterdam Closure,Utrecht,0.0,150,0.0
+Amsterdam Closure,The Hague,0.0,150,0.0
+Amsterdam Closure,Groningen,100.0,100,10000.0
+Amsterdam Closure,Maastricht,0.0,100,0.0
+Amsterdam Closure,Tilburg,0.0,150,0.0
+Amsterdam Closure,Arnhem,0.0,100,0.0
+Amsterdam Closure,Zwolle,200.0,75,15000.0
+Amsterdam Closure,Breda,0.0,100,0.0
+Fuel Cost Increase,Utrecht,0.0,150,0.0
+Fuel Cost Increase,The Hague,0.0,150,0.0
+Fuel Cost Increase,Groningen,0.0,100,0.0
+Fuel Cost Increase,Maastricht,0.0,100,0.0
+Fuel Cost Increase,Tilburg,0.0,150,0.0
+Fuel Cost Increase,Arnhem,0.0,100,0.0
+Fuel Cost Increase,Zwolle,0.0,75,0.0
+Fuel Cost Increase,Breda,0.0,100,0.0
+Randstad Demand Surge,Utrecht,0.0,150,0.0
+Randstad Demand Surge,The Hague,0.0,150,0.0
+Randstad Demand Surge,Groningen,0.0,100,0.0
+Randstad Demand Surge,Maastricht,0.0,100,0.0
+Randstad Demand Surge,Tilburg,0.0,150,0.0
+Randstad Demand Surge,Arnhem,0.0,100,0.0
+Randstad Demand Surge,Zwolle,0.0,75,0.0
+Randstad Demand Surge,Breda,0.0,100,0.0
+Eindhoven Capacity Loss,Utrecht,0.0,150,0.0
+Eindhoven Capacity Loss,The Hague,0.0,150,0.0
+Eindhoven Capacity Loss,Groningen,0.0,100,0.0
+Eindhoven Capacity Loss,Maastricht,0.0,100,0.0
+Eindhoven Capacity Loss,Tilburg,0.0,150,0.0
+Eindhoven Capacity Loss,Arnhem,0.0,100,0.0
+Eindhoven Capacity Loss,Zwolle,0.0,75,0.0
+Eindhoven Capacity Loss,Breda,0.0,100,0.0

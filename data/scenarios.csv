@@ -1,0 +1,6 @@
+scenario,description,closed_warehouse,cost_multiplier,demand_region,demand_multiplier,capacity_warehouse,capacity_multiplier
+Base Case,Normal demand and current network,,1.00,,1.00,,1.00
+Amsterdam Closure,Amsterdam DC is temporarily unavailable,Amsterdam DC,1.00,,1.00,Amsterdam DC,0.00
+Fuel Cost Increase,Transport costs increase by 20 percent,,1.20,,1.00,,1.00
+Randstad Demand Surge,Utrecht and The Hague demand increase by 30 percent,,1.00,"Utrecht;The Hague",1.30,,1.00
+Eindhoven Capacity Loss,Eindhoven DC capacity drops by 40 percent,,1.00,,1.00,Eindhoven DC,0.60

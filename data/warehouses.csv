@@ -1,0 +1,4 @@
+warehouse,city,capacity,latitude,longitude,fixed_operating_cost
+Amsterdam DC,Amsterdam,1200,52.3676,4.9041,52000
+Rotterdam DC,Rotterdam,1000,51.9244,4.4777,48000
+Eindhoven DC,Eindhoven,800,51.4416,5.4697,42000

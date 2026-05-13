@@ -1,0 +1,16 @@
+warehouse,capacity,shipped_quantity,utilization,remaining_capacity,scenario
+Amsterdam DC,1200,800.0,0.6666666666666666,400.0,Base Case
+Rotterdam DC,1000,540.0,0.54,460.0,Base Case
+Eindhoven DC,800,760.0,0.95,40.0,Base Case
+Amsterdam DC,0,0.0,0.0,0.0,Amsterdam Closure
+Rotterdam DC,1000,1000.0,1.0,0.0,Amsterdam Closure
+Eindhoven DC,800,800.0,1.0,0.0,Amsterdam Closure
+Amsterdam DC,1200,800.0,0.6666666666666666,400.0,Fuel Cost Increase
+Rotterdam DC,1000,540.0,0.54,460.0,Fuel Cost Increase
+Eindhoven DC,800,760.0,0.95,40.0,Fuel Cost Increase
+Amsterdam DC,1200,905.0,0.7541666666666667,295.0,Randstad Demand Surge
+Rotterdam DC,1000,630.0,0.63,370.0,Randstad Demand Surge
+Eindhoven DC,800,760.0,0.95,40.0,Randstad Demand Surge
+Amsterdam DC,1200,1060.0,0.8833333333333333,140.0,Eindhoven Capacity Loss
+Rotterdam DC,1000,560.0,0.56,440.0,Eindhoven Capacity Loss
+Eindhoven DC,480,480.0,1.0,0.0,Eindhoven Capacity Loss
