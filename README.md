@@ -27,11 +27,11 @@ This project demonstrates how optimization techniques can support more efficient
 
 ### Distribution Network Visualization
 
-![Network Plan](./Screenshot%202026-05-13%20at%2014.35.07.png)
+![Network Plan](./screenshot/Network%20Plan.png)
 
 ### Scenario & Cost Analysis
 
-![Scenario Analysis](./Screenshot%202026-05-13%20at%2014.34.40.png)
+![Scenario Analysis](./screenshot/Scenario%20Analysis.png)
 
 
 ## Key Features
